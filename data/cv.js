@@ -6,7 +6,7 @@
 // ─────────────────────────────────────────────────────────────
 
 export const cv = {
-  name: "Your Name",
+  name: "Maha AlAtawi",
   title: "Your Role, e.g. Software Engineering Student",
   location: "Riyadh, Saudi Arabia",
   summary:
